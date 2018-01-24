@@ -1,0 +1,4 @@
+name,tags,color,comments
+Group_Internal,internal,purple,"Internal Desktops"
+Group_DMZ,dmz,olive,"DMZ Hosts"
+Group_Mgmt,mgmt,orange,"Management Hosts"

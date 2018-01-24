@@ -1,0 +1,17 @@
+name,member.add
+Group_Internal,Host_10.0.0.1
+Group_Internal,Host_10.0.0.2
+Group_Internal,Host_10.0.0.3
+Group_Internal,Host_10.0.0.4
+Group_DMZ,Host_10.1.0.1
+Group_DMZ,Host_10.1.0.2
+Group_DMZ,Host_10.1.0.3
+Group_DMZ,Host_10.1.0.4
+Group_Mgmt,Host_10.2.0.1
+Group_Mgmt,Host_10.2.0.2
+Group_Mgmt,Host_10.2.0.3
+Group_Mgmt,Host_10.2.0.4
+Group_Mgmt,Host_10.2.0.5
+Group_Mgmt,Host_10.2.0.6
+Group_Mgmt,Host_10.2.0.7
+
